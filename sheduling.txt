@@ -2,6 +2,6 @@
 
 2) G(2) B(5) A(8) D(12) C(16) F(21) H(34) E(55)
 turn around time: sum: 409
-		  average: 51,125
+		  average: 19,125
 
 3) Der Prozess der zweimal vorkommt hat mehr Zeit zum ausführen, wenn dieser noch nicht ready ist
